@@ -1,0 +1,11 @@
+Steps to build an AI project
+
+1. Tiền xử lý, hậu xử lý, in/out của mạng
+2. Tạo Dataset
+3. Tạo Dataloader
+4. Xây dựng network
+5. Định nghĩa forward() trong network
+6. Định nghĩa loss function
+7. Thiết lập thuật toán tối ưu
+8. Huấn luyện và kiểm thử/đánh giá mô hình
+9. Dự đoán trên tập test
